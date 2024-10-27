@@ -17,7 +17,9 @@ Download the script or clone the repo (recommended). The script uses git to chec
 
 ## Support
 
-[Discord server](https://discord.gg/QNppY7T) or DM `VariXx#8317`
+`VariXx#8317`
+[Check QRZ](https://www.qrz.com/db/kf0izw) for my email address 
+You can also email me on Winlink (KF0IZW) but the response might be delayed 
 
 ## License
 [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
