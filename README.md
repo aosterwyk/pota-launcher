@@ -18,7 +18,9 @@ Download the script or clone the repo (recommended). The script uses git to chec
 ## Support
 
 `VariXx#8317`
+
 [Check QRZ](https://www.qrz.com/db/kf0izw) for my email address 
+
 You can also email me on Winlink (KF0IZW) but the response might be delayed 
 
 ## License
