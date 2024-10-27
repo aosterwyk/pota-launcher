@@ -17,7 +17,7 @@ Download the script or clone the repo (recommended). The script uses git to chec
 
 ## Support
 
-`VariXx#8317`
+Discord: `VariXx#8317`
 
 [Check QRZ](https://www.qrz.com/db/kf0izw) for my email address 
 
